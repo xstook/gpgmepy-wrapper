@@ -1,0 +1,6 @@
+__pycache__/
+*.keyring/
+*.swp
+*.json
+*.asc
+*.enc
